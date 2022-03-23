@@ -57,7 +57,7 @@ body {
 }
 
 .group:nth-child(1) {
-    min-width: 19rem;
+    min-height: 19rem;
 }
 
 .instagram-logo {
@@ -98,7 +98,7 @@ body {
 .get-the-app {
     display: flex;
     flex-direction: column;
-    align-content: center;
+    align-items: center;
     justify-content: center;
     width: 100%;
     padding: 1.3rem 0;
